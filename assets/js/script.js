@@ -15,7 +15,7 @@ navToggleBtn.addEventListener("click", function () {
 });
 
 /**
- * toggle the navbar when click any navbar link
+ * 
  */
 
 const navbarLinks = document.querySelectorAll("[data-nav-link]");
@@ -32,7 +32,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 /**
- * back to top & header
+ * back to top et le header
  */
 
 const backTopBtn = document.querySelector("[data-back-to-top]");
